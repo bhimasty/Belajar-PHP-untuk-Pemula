@@ -1,1 +1,1 @@
-Array
+Get & Post
