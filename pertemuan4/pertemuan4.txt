@@ -1,1 +1,1 @@
-Sintaks PHP
+Function
