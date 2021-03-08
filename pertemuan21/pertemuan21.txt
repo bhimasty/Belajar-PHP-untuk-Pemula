@@ -1,1 +1,10 @@
-PDF Reporting
+PDF Reporting menggunakan library mpdf.
+
+Instalasi mpdf menggunakan composer :
+1. Buka terminal atau command prompt
+2. Masuk ke folder utama di htdocs (pertemuan21)
+3. Ketik composer require mpdf/mpdf (untuk download library mpdf)
+4. Tunggu proses downloading
+5. Jika download berhasil, maka akan muncul folder vendor, file composer.json dan composer.lock di folder pertemuan21
+
+Folder vendor tidak diupload karena ukurannya terlalu besar.
